@@ -20,6 +20,9 @@ In addition to its core functionalities, Android Studio includes advanced tools 
 > Alex: "*I would really like to develop Android apps using Python but this isn't easy.*"
 
 #
+![Android](https://github.com/user-attachments/assets/2215de34-5393-465c-97b5-eb0ad2ebdd7f)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
