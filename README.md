@@ -10,6 +10,8 @@ Beyond technical guidance, this GPT also emphasizes user-centric design and perf
 #
 ### Android Studio
 
+![Android](https://github.com/user-attachments/assets/78d7ad46-620b-42a1-9f0f-1967e3ce935c)
+
 Android Studio is the official integrated development environment (IDE) for Android app development, offering a comprehensive suite of tools to design, develop, and test Android applications. Built on JetBrains' IntelliJ IDEA platform, it provides an intuitive interface and robust features that simplify coding for both beginners and professionals. Key functionalities include a powerful code editor with intelligent code completion, refactoring, and real-time code analysis, making it easier to write clean and efficient code. The integrated Android Emulator enables developers to test applications across various devices and API levels without needing physical devices, saving time and resources during development.
 
 In addition to its core functionalities, Android Studio includes advanced tools such as a visual layout editor, which allows drag-and-drop placement of UI components and immediate preview of design changes. Its Gradle-based build system ensures flexibility in managing project dependencies and building APKs. The IDE also supports debugging tools to identify and fix issues efficiently, as well as profiling tools to optimize performance by analyzing app usage metrics like CPU, memory, and network activity. With seamless integration with Git for version control and Google Play for app distribution, Android Studio provides an end-to-end development solution for creating modern, feature-rich Android applications.
